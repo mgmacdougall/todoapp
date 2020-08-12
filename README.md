@@ -1,7 +1,5 @@
 ## TODO APP READ ME
 
-++++ Version 2
-
 # User Stories:
 
 -   User can create an TO DO Item - done
