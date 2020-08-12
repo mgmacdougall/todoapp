@@ -1,4 +1,4 @@
-## TODO APP READ ME
+## TODO APP
 
 # User Stories:
 
