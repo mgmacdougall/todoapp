@@ -1,0 +1,26 @@
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+#create_todo {
+	margin-right: 10px;
+}
+
+#todo_items {
+	list-style: none;
+}
+
+.todo_item {
+	width: 100%;
+	display: inline-block;
+	/* float: right; */
+}
+
+.btnStrip {
+	/* float: right; */
+	margin-right: 10em;
+	padding: 0.5em;
+}
+.btnStrip button {
+	margin: 0.5em;
+}
